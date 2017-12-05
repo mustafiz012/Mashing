@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">MashUp</string>
+    <string name="app_name">FacemashUtil</string>
+    <string name="facebook_app_id">1589770417783440</string>
+    <string name="fb_login_protocol_scheme">fb1589770417783440</string>
 </resources>
